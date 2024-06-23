@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 Look me up/connect with me: 
 [Google Scholar](https://scholar.google.co.uk/citations?user=dtWJOOYAAAAJ&hl=zh-CN),
-[ResearchGate](),
+[ResearchGate](https://www.researchgate.net/profile/Yufan-Yang-15),
 [LinkedIn]()
 
