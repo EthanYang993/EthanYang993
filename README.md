@@ -31,12 +31,13 @@ Here are some ideas to get you started:
 * Project management: Markdown, Git, GitHub
 * Design: Illustrator, Photoshop
 * Writing: Latex
+* Wet laboratory techniques:cell culture, flow cytometry, western blot, qRT-PCR, cell proliferation/viability/migration/invasion assays, Animal modeling and efficacy experiments
 * Miscellaneous: Flowjo ImageJ SlideViewer Cytoscape Pymol Graphpad SPSS ChemDraw
 
 
 Look me up/connect with me: 
 [Google Scholar](https://scholar.google.co.uk/citations?user=dtWJOOYAAAAJ&hl=zh-CN),
-[ResearchGate](https://www.researchgate.net/profile/Yufan-Yang-15)
+[ResearchGate](https://www.researchgate.net/profile/Yufan-Yang-15).
 <!--
 [LinkedIn]()
 -->
