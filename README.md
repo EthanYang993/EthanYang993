@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 * Writing: Latex
 * Miscellaneous: Flowjo ImageJ SlideViewer Cytoscape Pymol Graphpad SPSS ChemDraw
 
-<!-- 
+
 Look me up/connect with me: 
-Google Scholar, ResearchGate, LinkedIn, Twitter, Instagram, Email
--->
+[Google Scholar](https://scholar.google.co.uk/citations?user=dtWJOOYAAAAJ&hl=zh-CN),
+[ResearchGate](),
+[LinkedIn]()
+
