@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 * Programming language: R, Python, BASH, ZSH
 * Web development: R Shiny
-* Project management: Markdown, Git, GitHub, 
+* Project management: Markdown, Git, GitHub
 * Design: Illustrator, Photoshop
 * Writing: Latex
 * Miscellaneous: Flowjo ImageJ SlideViewer Cytoscape Pymol Graphpad SPSS ChemDraw
